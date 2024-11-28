@@ -13,6 +13,7 @@ class Tareas{
         })
         return listado;
     }
+
     constructor(){
         this._listado={};
     }
